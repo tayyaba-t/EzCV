@@ -42,9 +42,9 @@ Enable employers to filter and track applications efficiently
 
 Django Rest Framework (if used)
 
-**Database
-**
+**Database**
 -SQL Server (Microsoft SQL Server)
+
 **Other**
 
 -Skill & Course Recommendations: Identifies missing or weak skills by comparing resumes to job descriptions and suggests relevant Coursera courses in real time.
