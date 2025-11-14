@@ -1,5 +1,6 @@
 # EzCV
 Enginnering Project
+
 **Project Overview**
 
 This project presents the development of a web application called EzCV that functions as a resume builder, a live job market, and an applicant tracker, all designed to ease and speed up the hiring process.
@@ -29,31 +30,31 @@ Enable employers to filter and track applications efficiently
 **Technologies Used**
 **Frontend**
 
-HTML
+-HTML
 
-CSS
+-CSS
 
-Bootstrap
+-Bootstrap
 
 **Backend**
 
-Django
+-Django
 
 Django Rest Framework (if used)
 
 **Database
 **
-SQL Server (Microsoft SQL Server)
+-SQL Server (Microsoft SQL Server)
 **Other**
 
-Skill & Course Recommendations: Identifies missing or weak skills by comparing resumes to job descriptions and suggests relevant Coursera courses in real time.
+-Skill & Course Recommendations: Identifies missing or weak skills by comparing resumes to job descriptions and suggests relevant Coursera courses in real time.
 
-Resume Parsing: Extracts text from PDFs using PyPDF and structures key information (education, experience, skills) with the Gemini API.
+-Resume Parsing: Extracts text from PDFs using PyPDF and structures key information (education, experience, skills) with the Gemini API.
 
-BERT + Cosine Similarity Filtering: Uses semantic text analysis to calculate ATS scores and filter candidates by relevance.
+-BERT + Cosine Similarity Filtering: Uses semantic text analysis to calculate ATS scores and filter candidates by relevance.
 
-Job Aggregation (LinkedIn Scraping): Fetches live job listings based on job title and country for real-time job discovery.
+-Job Aggregation (LinkedIn Scraping): Fetches live job listings based on job title and country for real-time job discovery.
 
-Course Recommendation (Coursera Scraping): Finds appropriate learning resources to address identified skill gaps.
+-Course Recommendation (Coursera Scraping): Finds appropriate learning resources to address identified skill gaps.
 
 CSV Job Ranking System: Logs applied jobs, attaches ATS scores, and automatically sorts them to highlight best-matched opportunities.
