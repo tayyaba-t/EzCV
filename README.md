@@ -40,9 +40,9 @@ Enable employers to filter and track applications efficiently
 
 -Django
 
-Django Rest Framework (if used)
 
 **Database**
+
 -SQL Server (Microsoft SQL Server)
 
 **Other**
@@ -57,4 +57,4 @@ Django Rest Framework (if used)
 
 -Course Recommendation (Coursera Scraping): Finds appropriate learning resources to address identified skill gaps.
 
-CSV Job Ranking System: Logs applied jobs, attaches ATS scores, and automatically sorts them to highlight best-matched opportunities.
+-CSV Job Ranking System: Logs applied jobs, attaches ATS scores, and automatically sorts them to highlight best-matched opportunities.
